@@ -1,4 +1,10 @@
-# ProjetoFinal
+# Projeto Final - Angular
+
+### Objetivos:
+- Criar um sistema com múltiplos módulos;
+- Integrar todos os projetos como módulos de um único projeto;
+- Configurar as rotas por módulo;
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
