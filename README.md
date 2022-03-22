@@ -5,6 +5,8 @@
 - Integrar todos os projetos como módulos de um único projeto;
 - Configurar as rotas por módulo;
 
+Para acessar o projeto, [clique aqui](https://projeto-final-angular.netlify.app/).
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
