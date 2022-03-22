@@ -1,12 +1,25 @@
 # Projeto Final - Angular
 
-### Objetivos:
+Este é o Projeto Final de conclusão da Formação Angular 13, que irá reunir todos os 5 projetos realizados durante o curso.
+
+#### Objetivos:
 - Criar um sistema com múltiplos módulos;
 - Integrar todos os projetos como módulos de um único projeto;
 - Configurar as rotas por módulo;
+<br>
 
 Para acessar o projeto, [clique aqui](https://projeto-final-angular.netlify.app/).
 
+## Tecnologias
+
+| Tecnologia                              | Finalidade                |
+| --------------------------------------- | ------------------------- |
+| HTML5                                   | Estrutura web             |
+| CSS3 - Bootstrap                        | Estilização da página     |
+| TypeScript - Angular                    | Interação da página       |
+| [API Google Charts](https://developers.google.com/chart)  | Realizar requisições HTTP |
+
+<br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
