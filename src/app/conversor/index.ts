@@ -5,3 +5,4 @@ export * from './services';
 export * from './directives';
 export * from './utils';
 export * from './pipes';
+export * from './conversor-routing.module';
