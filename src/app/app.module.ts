@@ -9,6 +9,7 @@ import { DashboardModule } from './dashboard';
 import { CalculadoraModule } from './calculadora';
 import { ConversorModule } from './conversor';
 import { TarefasModule } from './tarefas';
+import {JogoDaVelhaModule} from './jogo-da-velha';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { TarefasModule } from './tarefas';
     CalculadoraModule,
     ConversorModule,
     TarefasModule,
+    JogoDaVelhaModule,
     AppRoutingModule
   ],
   providers: [],
